@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<NUnit>
+		<DefaultTestNamePattern>{m}({0})</DefaultTestNamePattern>
+	</NUnit>
+	<TestRunParameters>
+		<Parameter name="Browserstack" value="false" />
+		<Parameter name="SauceLabs" value="false" />
+		<Parameter name="Platform" value="android" />
+	</TestRunParameters>
+</RunSettings>
